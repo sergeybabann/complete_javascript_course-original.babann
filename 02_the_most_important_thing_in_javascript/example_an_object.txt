@@ -1,0 +1,13 @@
+// example object
+
+{
+    visible: true,
+    colorDepth: 24,
+    title: 'My image',
+    Orientation: {
+        angle: 0,
+        type: 'landscape'
+    },
+    pixelDepth: 24,
+    width: 1440
+}
