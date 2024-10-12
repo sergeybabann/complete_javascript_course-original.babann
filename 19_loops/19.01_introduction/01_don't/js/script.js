@@ -1,23 +1,20 @@
-i = 0
+let i = 0
+console.log(i)
+i++ 
+
+console.log(i)
+i++ 
+
+console.log(i)
+i++ 
+
+console.log(i)
+i++ 
+
 console.log(i)
 i++ 
 
 
-i = 0
-console.log(i)
-i++
 
 
-i = 0
-console.log(i)
-i++
 
-
-i = 0
-console.log(i)
-i++
-
-
-i = 0
-console.log(i)
-i++
